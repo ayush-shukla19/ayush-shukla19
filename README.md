@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayush-shukla19](https://github.com/ayush-shukla19)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, C/C++, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, MongoDB**
 
 - 📫 How to reach me **ayushramjishukla@gmail.com**
 
