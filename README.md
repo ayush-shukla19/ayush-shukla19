@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ayushramjishukla@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1B3iocrGge2eIQztGiAvrMSFNWIFCtBhs/view?usp=drive_link](https://drive.google.com/file/d/1Qcel1vS0l1mB0wiJ0sHN-7tF3h6gs3mD/view?usp=sharing))
+- 📄 Know about my experiences ([Click to view my resume](https://drive.google.com/file/d/1yr7wvZcoNay4hDBryx0_eUsUcez9SZFt/view?usp=drive_link))
 
 - ⚡ Fun fact **I’m skilled in leadership**
 
