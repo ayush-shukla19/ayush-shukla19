@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayush-shukla19](https://github.com/ayush-shukla19)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Express.js, Java, SQL, MongoDB**
 
 - 📫 How to reach me **ayushramjishukla@gmail.com**
 
-- 📄 Know about my experiences ([Click to view my resume](https://drive.google.com/file/d/1yr7wvZcoNay4hDBryx0_eUsUcez9SZFt/view?usp=drive_link))
+- 📄 Know about my experiences ([Click to view my resume](https://drive.google.com/file/d/1VOWaFGvIf3cdoQva-4gaey56WLhoFe7Z/view?usp=drive_link))
 
 - ⚡ Fun fact **I’m skilled in leadership**
 
