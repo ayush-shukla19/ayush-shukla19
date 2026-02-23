@@ -1,7 +1,7 @@
 <img height="200" width="100%" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="top">
 <h1 align="center">Hey 👋, I'm Ayush Shukla</h1>
 <h3 align="center">Aspiring full-stack developer with a strong foundation in front-end and back-end technologies. Passionate about creating innovative, user-centric web and mobile applications. Skilled in leadership and problem-solving through active participation in technical events. Seeking an opportunity to apply my expertise and grow with a dynamic, forward-thinking organization.</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/e39d1edfecc60dfdea0cded8087b7a379d34ffc281e9bb557f7dca8ad89a7a79/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4434443132415147322d33566d5f6a795949772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313639333735333137393833363f653d3231343734383336343726763d6265746126743d5852304e774542617067794d66456f725f355769794c4b6979517a776f504b747036454b6b58595f7a7051" alt="CODING">
+<img align="right" width="500" src="https://camo.githubusercontent.com/e39d1edfecc60dfdea0cded8087b7a379d34ffc281e9bb557f7dca8ad89a7a79/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4434443132415147322d33566d5f6a795949772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313639333735333137393833363f653d3231343734383336343726763d6265746126743d5852304e774542617067794d66456f725f355769794c4b6979517a776f504b747036454b6b58595f7a7051" alt="CODING">
 - 🔭 I’m currently pursuing <b>B.Tech. in CSE</b>
 
 - 🌱 Actively expanding my skills in **Front-end and back-end technologies** 
