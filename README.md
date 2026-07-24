@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Ayush Shukla</h1>
 <h3 align="center">Aspiring full-stack developer with a strong foundation in front-end and back-end technologies. Passionate about creating innovative, user-centric web and mobile applications. Skilled in leadership and problem-solving through active participation in technical events. Seeking an opportunity to apply my expertise and grow with a dynamic, forward-thinking organization.</h3>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc285MGFidmk5cWpwYjlybzU4ZW41ZWp6bThseXExeXhreTV2dml4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="CODING">
-- 🔭 I’m currently pursuing <b>B.Tech. in CSE</b>
+- 🔭 I have a <b>B.Tech.</b> degree in <b>CSE</b>. 
 
 - 🌱 Actively expanding my skills in **Front-end and back-end technologies** 
 
