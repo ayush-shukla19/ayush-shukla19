@@ -7,7 +7,7 @@
 
 - 🌱 Actively expanding my skills in **Front-end and back-end technologies** 
 
-- 🤝I’m currently working on [Shree_Ram_Charit_Manas_Seva_Trust](https://shreeramcharitmanassevatrust.netlify.app/)
+- 🤝I’m currently working at [XRM Labs Private Limited](https://www.xrmlabs.com/) as a **Software Developer**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayush-shukla19](https://github.com/ayush-shukla19)
 
